@@ -1,2 +1,1 @@
-check pull command excute or not
-something went wrong
+check pull command
